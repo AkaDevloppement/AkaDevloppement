@@ -9,7 +9,6 @@
   <a href=""> <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
   <a href=""> <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
   <a href=""> <img width ='42px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png'> </a>
-  <a href=""> <img width ='42px' src =''> </a>
 </p>
 
 <h2 align="center"> My GitHub Stats: </h2>
