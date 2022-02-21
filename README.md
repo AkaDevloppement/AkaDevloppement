@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm RyuK </h1>
+<h1 align="center"> Hey, I'm AkaTool's </h1>
 
 <h5 align="center">I control Python</h5>
 <h4 align="center">I'm a just learning JS, C++ & Lua.</h4>
