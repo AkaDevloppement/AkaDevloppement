@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, I'm AkaTool's </h1>
 
-<h5 align="center">I control Python</h5>
-<h4 align="center">I'm learning JS, C++ & Lua.</h4>
+<h5 align="center"></h5>
+<h4 align="center">I control Python\nI'm learning JS, C++ & Lua.</h4>
 
 <h2 align="center"> I have experience with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
